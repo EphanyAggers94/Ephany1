@@ -1,0 +1,19 @@
+/*/CSS TUTORIAL/*/
+
+body {background:lightblue
+
+}
+h1 {
+	color: red;font: 6rem;
+}
+div {
+	color: green;
+	font: 8rem;
+}
+span {
+	text-transform: uppercase;
+} 
+#2 {
+	width: 50;
+	height: 50;
+}
